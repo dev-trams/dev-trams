@@ -11,11 +11,14 @@
 
 # 런칭 중
 - [![Build Status](https://img.shields.io/badge/application-JVAK-pink)](https://play.google.com/store/apps/details?id=kr.hs.namyangju.jv)                               
-- [![Build Status](https://img.shields.io/badge/web-ctrls.studio-black)](https://ctrls-studio.com)      
-
+- 
 JVAK - 국내의 노래방기기에는 일본노래를 검색할 수 있는 방법이 없습니다.
 그래서 준비했습니다. 노래방 번호를 통하여 국내의 노래방에서도 일본노래를 마음껏 예약하세요!
-                                                                                                            
+
+- [![Build Status](https://img.shields.io/badge/web-ctrls.studio-black)](https://ctrls-studio.com)
+
+대학교에서 마음맞는 친구들끼리 모여서 만든 개발 팀! ctrls studio 지금 방문하여 컨텐츠를 확인하세요!
+
 # 제작 중
 - [![wakatime](https://wakatime.com/badge/github/dev-trams/JVAP_R.svg)](https://wakatime.com/badge/github/dev-trams/JVAP_R)                                               
 JVAK 리메이크 버전 제작중!      
