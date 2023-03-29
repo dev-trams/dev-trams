@@ -3,7 +3,7 @@
   
 <table> 
   <tr>
-    <td> <img width="363.63em" height="200em" src="https://github-readme-stats.vercel.app/api?username=dev-trams&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gruvbox_light" /> <br> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-trams&layout=compact&hide_border=true&theme=white&theme=gruvbox_light"/> </td>
+    <td> <img width="363.63em" height="200em" src="https://github-readme-stats.vercel.app/api?username=dev-trams&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" /> <br> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-trams&layout=compact&hide_border=true&theme=white" /> </td>
     <td><img height="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dev_trams&theme=gruvbox_light"/> </td>
   </tr>
 </table>
