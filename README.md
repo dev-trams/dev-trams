@@ -1,9 +1,7 @@
-<div style="text-align:center">
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=DeveloperTrams&fontAlignY=35&animation=fadeIn&desc=LeeJaeGyu&descAlignY=60)
 ## _만들고 싶은걸 만드는 개발자_
   
-<table> 
+<table style="text-align:center"> 
   <tr>
     <td> <img width="363.63em" height="200em" src="https://github-readme-stats.vercel.app/api?username=dev-trams&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" /> <br> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-trams&layout=compact&hide_border=true&theme=white" /> </td>
     <td><img height="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=dev_trams&theme=gruvbox_light"/> </td>
@@ -19,8 +17,6 @@
 
 부 전공으로는 어떤걸 만들든 항상 따라오던 웹(html,css,php,js(?)) 
   
-</div>
-
 # 런칭 중
 - [![Build Status](https://img.shields.io/badge/application-JVAK-pink)](https://play.google.com/store/apps/details?id=kr.hs.namyangju.jv)                               
  
