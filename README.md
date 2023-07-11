@@ -19,7 +19,7 @@
   
 # 런칭 중
 - [![Build Status](https://img.shields.io/badge/application-JVAK-pink)](https://jvak.ctrls-studio.com)                               
- 
+- [![wakatime](https://wakatime.com/badge/github/dev-trams/JVAP_R.svg)](https://wakatime.com/badge/github/dev-trams/JVAP_R)                 
 JVAK - 국내의 노래방기기에는 일본노래를 검색할 수 있는 방법이 없습니다.
 그래서 준비했습니다. 노래방 번호를 통하여 국내의 노래방에서도 일본노래를 마음껏 예약하세요!
 
@@ -28,10 +28,3 @@ JVAK - 국내의 노래방기기에는 일본노래를 검색할 수 있는 방�
 대학교에서 마음맞는 친구들끼리 모여서 만든 개발 팀! ctrls studio 지금 방문하여 컨텐츠를 확인하세요!
 
 # 제작 중
-- [![wakatime](https://wakatime.com/badge/github/dev-trams/JVAP_R.svg)](https://wakatime.com/badge/github/dev-trams/JVAP_R)                                               
-JVAK 리메이크 버전 제작중!      
-- [![Build Status](https://img.shields.io/badge/webpage-Whiteday-pink)](http://servereb.dothome.co.kr/whiteday)                                                           
-project W - 크리스마스 트리 편지 이벤트를 만들었던 산타파이브즈의 아디이어 사용허가로 제작하게된
-화이트데이 특집 편지 이벤트를 위해서 제작했지만 어느순간 일이 밀려서 그저 포트폴리오로 전락해버린 비운의 페이지!
-
- 
