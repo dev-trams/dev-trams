@@ -1,10 +1,8 @@
 
-## _만들고 싶은걸 만드는 개발자_
-## Dev.Trams[Jer Gyu LEE]
-  
 ###
+## <img align="right" height="150" src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F5267373%2Fattach%2F55cddb08439147a7860bf8b1aea1f1c1"  />
 
-<img align="right" height="150" src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F5267373%2Fattach%2F55cddb08439147a7860bf8b1aea1f1c1"  />
+## _만들고 싶은걸 만드는 개발자_ <br> Dev.Trams[Jer Gyu LEE] 
 
 ###
 
